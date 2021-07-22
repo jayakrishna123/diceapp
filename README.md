@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+Dice App
+<img src="images/dice1.png">
+<img src="images/dice2.png">
+
+<ul>Switch case</ul>
+<ul>images</ul>
+<ul>setstate</ul>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
