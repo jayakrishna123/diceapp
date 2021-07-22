@@ -3,8 +3,10 @@
 A new Flutter project.
 
 Dice App
+<hr>
 <img src="images/dice1.png">
 <img src="images/dice2.png">
+<br>
 
 <ul>Switch case</ul>
 <ul>images</ul>
